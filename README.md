@@ -8,5 +8,5 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,sqlite,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,idea,sqlite,python)](https://skillicons.dev)
 
