@@ -8,8 +8,4 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,idea,sqlite,python,git)](https://skillicons.dev)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rwin96&theme=radical&show_icons=true&locale=en&layout=compact" alt="rwib96" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rwin96&theme=radical&show_icons=true&locale=en" alt="rwin96" /></p>
+[![My Skills](https://skillicons.dev/icons?i=java,idea,postgres,mysql,jpa,hibernate,spring,sqlite,python,git)](https://skillicons.dev)
