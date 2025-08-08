@@ -8,6 +8,6 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,python,git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,python,git,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,idea)](https://skillicons.dev)
