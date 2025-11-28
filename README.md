@@ -9,7 +9,7 @@
 
 | 🚀 About Me | 🛠 Tech Stack |
 | :--- | :--- |
-| <br> I'm a **Java Developer** with ~1 year of experience tinkering with **Spring Boot**.<br><br>🌱 **Focus:** Writing clean, efficient code & learning backend architecture.<br>🐧 **Interests:** Exploring **Linux** & **DevOps** to understand the bigger picture.<br><br>📫 **Contact:** [aryaei1383@gmail.com](mailto:aryaei1383@gmail.com) | <br> **Languages & Frameworks**<br> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=light" height="60" /><br><br>**Tools & DevOps**<br> <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,postgres,mysql,idea&theme=light" height="60" /> |
+| <br> I'm a **Java Developer** with ~1 year of experience tinkering with **Spring Boot**.<br><br>🌱 **Focus:** Writing clean, efficient code & learning backend architecture.<br>🐧 **Interests:** Exploring **Linux** & **DevOps** to understand the bigger picture.<br><br>📫 **Contact:** [aryaei1383@gmail.com](mailto:aryaei1383@gmail.com) | <br> **Main Story**<br> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=light" height="60" /><br><br>**Side Quests**<br> <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,postgres,mysql,idea&theme=light" height="60" /> |
 
 <br/>
 
