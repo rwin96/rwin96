@@ -20,7 +20,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rwin96&theme=default&bg_color=F2F0E9&ring=2E7D32&fire=D84315&currStreakLabel=261C19&border=261C19&hide_border=false" height="150" alt="Streak" />
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwin96&layout=compact&bg_color=F2F0E9&title_color=261C19&text_color=4E342E&border_color=261C19&langs_count=6&exclude_repo=Simorgh" width="60%" alt="Top Languages" />
 
   <br/><br/>
 
